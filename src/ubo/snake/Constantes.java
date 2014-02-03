@@ -20,6 +20,6 @@ public interface Constantes {
     /**
      * Délai d'animation du jeu
      */
-    public final int DELAY = 25;
+    public final int DELAY = 15;
     
 }
